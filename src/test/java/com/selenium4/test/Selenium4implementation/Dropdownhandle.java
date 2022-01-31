@@ -22,7 +22,7 @@ public class Dropdownhandle {
 		driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(10));
 
 //This line added from remote repository by Hillol
-=======
+
 //line added by hillol
 
 
