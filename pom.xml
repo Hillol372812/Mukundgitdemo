@@ -48,7 +48,8 @@
 							<jsonFiles>
 								<param>**/*.json</param>
 							</jsonFiles>
-						</configuration>s
+						</configuration>
+
 					</execution>
 				</executions>
 			</plugin>
